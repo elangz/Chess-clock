@@ -1,10 +1,5 @@
 // package main;
 
-// Bug logs: 
-/*
-change step position to top left and top right corner
-*/
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
